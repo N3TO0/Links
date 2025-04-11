@@ -7,7 +7,7 @@ body {
 }
 
 .img_perfil {
-    /*sla*/
+
     background-image: url(/Img/foto/Perfil.jpeg);
     /*puxando imagen para o fundo da div*/
     height: 255px;
