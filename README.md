@@ -1,2 +1,2 @@
-# Links
-Repositório para site de links
+# Site de Links Sociais
+>Repositório do site de links de redes sociais.
