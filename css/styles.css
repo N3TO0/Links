@@ -8,7 +8,7 @@ body {
 
 .img_perfil {
 
-    background-image: url(/Img/foto/img1.jpeg);
+    background-image: url(../img/img1.jpeg);
     /*puxando imagen para o fundo da div*/
     height: 255px;
     /*Definindo o tamanho da largura*/
