@@ -8,7 +8,7 @@ body {
 
 .img_perfil {
 
-    background-image: url(/Img/foto/Perfil.jpeg);
+    background-image: url(/Img/foto/img1.jpeg);
     /*puxando imagen para o fundo da div*/
     height: 255px;
     /*Definindo o tamanho da largura*/
@@ -16,7 +16,7 @@ body {
     /*Definindo o tamanho da altura*/
     background-size: cover;
     /*imagem é colocada toda dentro da div */
-    background-position: center;
+    background-position: 0% 25%;
     /* centraliza a foto*/
     border-radius: 50%;
     /*arrendonando a div*/
