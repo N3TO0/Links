@@ -17,11 +17,11 @@ body {
     flex-direction: column;
 }
 
-.img{
+.img_perfil{
     width: 250px ;
     height: 250px;
     margin: 0 0 25px 0;
-    background-image: url(/img/img1.jpeg);
+    background-image: url(../img/img1.jpeg);
     background-size: cover;
     background-position:  20% 15%;
     border-radius: 500%;
@@ -82,3 +82,4 @@ p{
     margin: 0 0 0 20px;
 
 }
+
