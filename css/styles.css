@@ -12,15 +12,12 @@
     --img-perfil: url(../img/img1.jpeg);
 
     /*Sizes*/
-    --size-p:1.2rem;
-    --size-h1:1.7rem;
-    --size-heigt-buttons-links:3rem;
-    --size-width-buttons-links:17rem;
-    --size-icons-buttons: 1.6rem;
-    --size-heigt-width-img-perfil: 15rem;
-
-
-
+    --size-p:1.08rem;
+    --size-h1:1.64rem;
+    --size-heigt-buttons-links:2.5rem;
+    --size-width-buttons-links:15rem;
+    --size-icons-buttons: 1.3rem;
+    --size-heigt-width-img-perfil: 13rem;
 
 }
 body {
