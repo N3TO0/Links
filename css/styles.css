@@ -18,6 +18,7 @@
     --size-width-buttons-links:15rem;
     --size-icons-buttons: 1.3rem;
     --size-heigt-width-img-perfil: 13rem;
+    --size-icon-web: 1.4;
 
 }
 body {
@@ -65,6 +66,11 @@ button{
     display: flex;
     align-items: center;
     cursor: pointer;
+
+    #web{
+        width: var(--size-icon-web);
+        margin: 0 0 0 19%;
+    }
 }
 
 .button_link1{
